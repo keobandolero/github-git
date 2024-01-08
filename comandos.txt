@@ -1,0 +1,11 @@
+git add
+git commit -m "" 
+git log 
+git status
+git diff "para ver los cambios"
+
+git checkout"Para volver a la configuracion anterior claro sin haver dado commit"
+
+git reset
+git  log --graph --decorate --all --oneline
+git config --global alias."" "sirve para agregar alias y o tener que estar escribiendo todo el codigo desde 0 ya que unas sentencias si son largar por ejemplo la de tree"
