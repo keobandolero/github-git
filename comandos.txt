@@ -13,3 +13,6 @@ git config --global alias."" "sirve para agregar alias y o tener que estar escri
 git reflog "para ver todo el historial de movimientos que e realizado"
 git checkout "para regresar al movimiento segun el ash que demos"
 git reset --hard "Para avanzar hacia adelante o hacia atras degun el ash que demos"
+
+git tag "como bien se ve es para hacer una etiqueta asta cierto punto para ir haciendo separaciones"
+
