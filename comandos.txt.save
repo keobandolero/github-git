@@ -1,4 +1,3 @@
-git init --> para iniciar git.
 git add (add .) --> para agregar todos los cambios
 git commit -m "" 
 git log 
@@ -17,7 +16,10 @@ git reset --hard "Para avanzar hacia adelante o hacia atras degun el ash que dem
 
 git tag "como bien se ve es para hacer una etiqueta asta cierto punto para ir haciendo separaciones"
 
-git branch "" "Es para crear una nueva rama es decir partir desde un punto
-en espesifico", (git branch -d "" para cargarnos la rama ).
+git branch "" "Es para crear una nueva rama es decir partir desde un punto en especifico"
 git switch "branch creada" --> Es para movernos de rama en rama
 git merge "Rama que se quiere unir" --> para unir ramas lo que se trabaja en una unirlo con la otra
+
+git stash es para hacer un tipo commit pero de memoria no se hace como tal.
+git pop es para traer ese stash 
+git drop es para borrar ese stash es decir como liverar la memoria
