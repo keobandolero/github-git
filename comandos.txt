@@ -21,3 +21,5 @@ git branch "" "Es para crear una nueva rama es decir partir desde un punto
 en espesifico", (git branch -d "" para cargarnos la rama ).
 git switch "branch creada" --> Es para movernos de rama en rama
 git merge "Rama que se quiere unir" --> para unir ramas lo que se trabaja en una unirlo con la otra
+
+"Para hacer un commit local"
