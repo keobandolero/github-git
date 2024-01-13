@@ -23,3 +23,14 @@ git switch "branch creada" --> Es para movernos de rama en rama
 git merge "Rama que se quiere unir" --> para unir ramas lo que se trabaja en una unirlo con la otra
 
 "Para hacer un commit local"
+
+git pull "Para hacer los cambios de que se han echo en git hub en la rama de arriba y traerlos a el git local"
+
+git fetch "descargará el contenido remoto sin modificar el estado del repositorio local."
+
+git push "se utiliza para comunicar con otro repositorio, calcular lo que tu base de datos local tiene que la remota no tiene, y luego subir (push) la diferencia al otro repositorio"
+
+
+
+solo es para hacer un commit 
+
